@@ -10,7 +10,7 @@ I'm a Software Engineer, UI designer, and Technical sourcer who currently works 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, NodeJs and Blockchain Technology
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Block chain Engineer and  UI Design (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, **QA Engineer**, Block chain Engineer and  UI Design (Intern or Junior level).
 - 📫 contact me by emailing salamifolarin1410@gmail.com.
 
 ---
